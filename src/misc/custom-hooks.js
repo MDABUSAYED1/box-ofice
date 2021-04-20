@@ -3,19 +3,20 @@ import { useReducer, useEffect } from 'react';
 function showsReducer(prevState, action) {
   switch(action.type) {
     case 'ADD': {
-      return [...prevState, action.showId]
+      return [...prevState, action.showID]
     }
 
     case 'REMOVE': {
       return prevState.filter( showID => showID !== action.showID );
     }
     
-    default: return prevState
+    default: 
+      return prevState
   }
 }
 
 function usePersistedReducer(reducer, initialState, key) {
-  const [state, dispatch] = useReducer(reducer, initialState, (initial) => {
+  const [state, dispatch] = useReducer(reducer, initialState, initial => {
     const persisted = localStorage.getItem(key);
 
     return persisted ? JSON.parse(persisted) : initial;
