@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/box-ofice/static/css/main.94202582.chunk.css",
-    "main.js": "/box-ofice/static/js/main.b95975b0.chunk.js",
-    "main.js.map": "/box-ofice/static/js/main.b95975b0.chunk.js.map",
+    "main.js": "/box-ofice/static/js/main.7ff7c140.chunk.js",
+    "main.js.map": "/box-ofice/static/js/main.7ff7c140.chunk.js.map",
     "runtime-main.js": "/box-ofice/static/js/runtime-main.f5ed3b93.js",
     "runtime-main.js.map": "/box-ofice/static/js/runtime-main.f5ed3b93.js.map",
-    "static/js/2.f0d5c3af.chunk.js": "/box-ofice/static/js/2.f0d5c3af.chunk.js",
-    "static/js/2.f0d5c3af.chunk.js.map": "/box-ofice/static/js/2.f0d5c3af.chunk.js.map",
+    "static/js/2.59db315c.chunk.js": "/box-ofice/static/js/2.59db315c.chunk.js",
+    "static/js/2.59db315c.chunk.js.map": "/box-ofice/static/js/2.59db315c.chunk.js.map",
     "static/js/3.dad76445.chunk.js": "/box-ofice/static/js/3.dad76445.chunk.js",
     "static/js/3.dad76445.chunk.js.map": "/box-ofice/static/js/3.dad76445.chunk.js.map",
     "index.html": "/box-ofice/index.html",
     "static/css/main.94202582.chunk.css.map": "/box-ofice/static/css/main.94202582.chunk.css.map",
-    "static/js/2.f0d5c3af.chunk.js.LICENSE.txt": "/box-ofice/static/js/2.f0d5c3af.chunk.js.LICENSE.txt"
+    "static/js/2.59db315c.chunk.js.LICENSE.txt": "/box-ofice/static/js/2.59db315c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5ed3b93.js",
-    "static/js/2.f0d5c3af.chunk.js",
+    "static/js/2.59db315c.chunk.js",
     "static/css/main.94202582.chunk.css",
-    "static/js/main.b95975b0.chunk.js"
+    "static/js/main.7ff7c140.chunk.js"
   ]
 }
